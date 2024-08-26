@@ -2,6 +2,8 @@ import socket
 import struct
 import textwrap 
 
+print ('Tool intialized')
+
 tab = lambda num: "\t"*num
 DATA_TAB_3 = "\t" * 3
 TAB_1 = "\t" * 1
